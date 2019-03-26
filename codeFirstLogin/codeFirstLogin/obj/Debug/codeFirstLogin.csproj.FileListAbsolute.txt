@@ -1,0 +1,16 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\codeFirstLogin.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\codeFirstLogin.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\codeFirstLogin.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.Form1.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\codeFirstLogin\codeFirstLogin\obj\Debug\codeFirstLogin.Form2.resources

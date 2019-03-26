@@ -1,0 +1,2 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT_CodeFirst\CodeFirst_StudentClassroom\obj\Debug\CodeFirst_StudentClassroom.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT_CodeFirst\CodeFirst_StudentClassroom\obj\Debug\CodeFirst_StudentClassroom.pdb
